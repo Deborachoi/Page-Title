@@ -1,0 +1,26 @@
+h1{ 
+    color:#ffcccc;   
+    font-size:60px;
+    text-shadow: 3px 3px grey;
+}
+h2{
+    color:#dab3ff;
+    font-size:30px;
+    text-shadow: 2px 2px grey;
+}
+ul{ color:grey;
+    font-size:20px;
+}
+body{
+    font-family: 'Arvo', serif;
+    background-image: url("https://i.pinimg.com/originals/b8/6f/8c/b86f8c1afeaa3593536fadd9a693d6cd.jpg");
+}
+img{
+    height:150px;
+    width:200px;
+}
+h3{
+    color:#dab3ff;
+    font-size:30px;
+    text-shadow: 2px 2px grey;
+}
